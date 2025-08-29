@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Ekattor TV Live | Bangla |  |
-https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
+Cnntürk | Haber |  |cnnturk.tr
+https://www.youtube.com/cnnturk/live
